@@ -1,0 +1,5 @@
+# 打开的文件
+~$*.pptx
+
+.DS_Store
+*.DS_Store
